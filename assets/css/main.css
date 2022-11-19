@@ -915,9 +915,9 @@ input, select, textarea {
 				box-shadow: inset 0 0 0 1px #ffffff;
 				display: inline-block;
 				height: 2.15rem;
-				line-height: 2.25rem;
+				line-height: 2.15rem;
 				text-align: center;
-				width: 2.25rem;
+				width: 2.15rem;
 			}
 
 				ul.icons li a:hover {
